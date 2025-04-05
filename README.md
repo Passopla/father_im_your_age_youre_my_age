@@ -1,7 +1,7 @@
 # Father I'm Your Age, You're My Age
 
 ## Inspiration
-This project was inspired by the example at [Java2s.com C++ Functions Tutorial](http://www.java2s.com/Tutorial/Cpp/0140__Function/Passingintbyvalue.htm), which demonstrates passing integers by value. I decided to give it a comedic twist by framing it as a father-son age swap scenario.
+This project was inspired by the example at [Java2s.com C++ Functions Tutorial](http://www.java2s.com/Tutorial/Cpp/0140__Function/Passingintbyvalue.htm), which demonstrates passing integers by value. I decided to give it a comedic twist by framing it as a father-son age swap story.
 
 ## What It Does
 The program initializes a father's age (48) and a son's age (12), then attempts to swap them using a function. Inside the function, the ages are indeed swapped and displayed. However, due to C++'s pass-by-value behavior, the original variables remain unchanged when control returns to the main function. 
